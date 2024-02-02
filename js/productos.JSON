@@ -1,0 +1,43 @@
+[
+    {
+        "id": "Tote-01",
+        "titulo": "Tote Polo",
+        "imagen": "/img/Tote 1.jpg",
+        "categoria": {
+            "nombre": "Tote1",
+            "id": "Polo"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "Tote-02",
+        "titulo": "Tote Mango",
+        "imagen": "/img/Tote 2.jpg",
+        "categoria": {
+            "nombre": "Tote2",
+            "id": "Mango"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "Tote-03",
+        "titulo": "Tote Char & A!",
+        "imagen": "/img/Tote 3.jpg",
+        "categoria": {
+            "nombre": "Tote3",
+            "id": "Char & A!"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "Tote-04",
+        "titulo": "The Tote Bag",
+        "imagen": "/img/Tote 4.jpg",
+        "categoria": {
+            "nombre": "Tote4",
+            "id": "TTB"
+        },
+        "precio": 7000
+    }
+    
+]
